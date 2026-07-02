@@ -18,7 +18,7 @@ Google pre-renders all the 3-dot menus in the DOM at page load and simply toggle
 ## Installation
 
 ### From the Chrome Web Store *(recommended)*
-*(Link coming soon)*
+*[Link to the extension page](https://chromewebstore.google.com/detail/docs-easy-copy/objlnnkkkhockbjcddlbkpfjpnampcgb)*
 
 ### Manual / Developer Install
 1. Clone or download this repository
